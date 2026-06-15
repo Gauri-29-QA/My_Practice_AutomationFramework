@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite"
+       parallel="tests"
+       thread-count="2">
+    <parameter name="browser" value="chrome"/>
+    <listeners>
+        <listener class-name="utilities.ExtentListener"/>
+    </listeners>
+    <test name="UI Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="API Tests">
+        <classes>
+            <class name="api.TestAPI"/>
+            <class name="api.TestAPI2"/>
+            <class name="api.TestAPI3"/>
+            <class name="api.TestAPI4"/>
+        </classes>
+    </test>
+
+</suite>
