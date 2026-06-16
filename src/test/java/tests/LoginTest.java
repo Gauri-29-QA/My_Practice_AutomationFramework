@@ -13,7 +13,7 @@ import java.io.IOException;
 public class LoginTest extends BaseTest {
 
 
-        LoginPage login = new LoginPage(getDriver());
+        LoginPage login = new LoginPage(DriverFactory.getDriver());
         ConfigReader reader=new ConfigReader();
         ScreenshotUtility screenshot = new ScreenshotUtility();
         ConfigReader config = new ConfigReader();

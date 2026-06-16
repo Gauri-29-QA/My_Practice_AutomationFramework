@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84f0aee1-d812-4d72-abbe-a8a0f73ae414" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtility.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5058054537248156" />
+      <entry key="MS500" value="3.4208389589501844" />
+      <entry key="S2" value="5.946511067729393" />
+      <entry key="S5" value="7.042456366812258" />
+      <entry key="S10" value="7.494444087268348" />
+      <entry key="S30" value="7.825085924980277" />
+      <entry key="S60" value="7.911714007962082" />
+      <entry key="M2" value="7.955647479236826" />
+      <entry key="M5" value="7.9822084100434045" />
+      <entry key="M10" value="7.991095751097333" />
+      <entry key="M15" value="7.994066053441168" />
+      <entry key="M30" value="8.016113515490318" />
+      <entry key="H1" value="9.70542382591562" />
+      <entry key="H2" value="28.383345058901803" />
+      <entry key="H4" value="90.3625446394018" />
+      <entry key="D1" value="313.8469206336593" />
+      <entry key="W1" value="397.7176890878641" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="2.764177098311545E-208" />
+      <entry key="S60" value="2.4481685461528254E-104" />
+      <entry key="M2" value="3.1187887073479323E-52" />
+      <entry key="M5" value="8.480157921515089E-21" />
+      <entry key="M10" value="3.367941623435023E-10" />
+      <entry key="M15" value="1.3188665929544938E-6" />
+      <entry key="M30" value="0.006510030301221798" />
+      <entry key="H1" value="0.6001211311724183" />
+      <entry key="H2" value="7.3295545884714555" />
+      <entry key="H4" value="29.718225027950677" />
+      <entry key="D1" value="108.9990777205616" />
+      <entry key="W1" value="138.3265602435969" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4677155234436567" />
+      <entry key="MS500" value="3.3264154513394275" />
+      <entry key="S2" value="5.89122436020442" />
+      <entry key="S5" value="7.015844197908122" />
+      <entry key="S10" value="7.480270170267831" />
+      <entry key="S30" value="7.820155819724553" />
+      <entry key="S60" value="7.909222436753782" />
+      <entry key="M2" value="7.954394999480358" />
+      <entry key="M5" value="7.981705803207166" />
+      <entry key="M10" value="7.990844178156467" />
+      <entry key="M15" value="7.993899581555605" />
+      <entry key="M30" value="8.0225063197327" />
+      <entry key="H1" value="10.304205435355696" />
+      <entry key="H2" value="35.7057835262983" />
+      <entry key="H4" value="120.06672610013307" />
+      <entry key="D1" value="422.83721644095476" />
+      <entry key="W1" value="536.0426435742778" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EqkXuQAoRDRYEdzYU85LylVKUl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LoginTest.executor": "Run",
+    "Application.TestAPI.executor": "Run",
+    "Application.TestAPI2.executor": "Run",
+    "Application.TestAPI3.executor": "Run",
+    "Application.TestAPI4.executor": "Run",
+    "Application.helloWorldTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml.executor": "Run",
+    "TestNG.LoginTest.Test_1.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gauri\IdeaProjects\My_Project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml">
+    <configuration name="TestAPI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.TestAPI2" />
+      <module name="My_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.TestAPI3" />
+      <module name="My_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api.TestAPI4" />
+      <module name="My_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.Test_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="METHOD_NAME" value="Test_1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.LoginTest.Test_1" />
+        <item itemvalue="Application.TestAPI4" />
+        <item itemvalue="Application.TestAPI3" />
+        <item itemvalue="Application.TestAPI2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f0aee1-d812-4d72-abbe-a8a0f73ae414" name="Changes" comment="" />
+      <created>1780913531419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780913531419</updated>
+      <workItem from="1780913534614" duration="3753000" />
+      <workItem from="1780919431966" duration="2590000" />
+      <workItem from="1780985555719" duration="11095000" />
+      <workItem from="1781074056747" duration="6772000" />
+      <workItem from="1781357365563" duration="1485000" />
+      <workItem from="1781424535546" duration="4334000" />
+      <workItem from="1781431249793" duration="7726000" />
+      <workItem from="1781499243865" duration="4956000" />
+      <workItem from="1781590492768" duration="5494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/api/TestAPI3.java</url>
+          <line>8</line>
+          <properties class="api.TestAPI3" method="testApi3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -13,7 +13,7 @@ public class ScreenshotUtility {
 
     public String captureScreenshot(String fileName) throws IOException {
         File destinationFile=new File("C:\\Users\\Gauri\\IdeaProjects\\My_Project\\Output\\"+fileName+".png");
-        File screenshotFile= ((TakesScreenshot) BaseTest.getDriver()).getScreenshotAs(OutputType.FILE);
+        File screenshotFile= ((TakesScreenshot) DriverFactory.getDriver()).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(screenshotFile, destinationFile);
         return destinationFile.getPath();
     }
