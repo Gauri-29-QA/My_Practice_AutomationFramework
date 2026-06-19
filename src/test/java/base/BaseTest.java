@@ -10,11 +10,9 @@ import static utilities.DriverFactory.*;
 
 public class BaseTest {
 
-
     @Parameters("browser")
     @BeforeMethod
     public void setup(String browser) {
-
         DriverFactory.initDriver(browser);
     }
 
