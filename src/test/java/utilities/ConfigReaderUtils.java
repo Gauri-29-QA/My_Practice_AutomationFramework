@@ -3,11 +3,11 @@ package utilities;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-public class ConfigReader {
+public class ConfigReaderUtils {
 
     private Properties prop;
 
-    public ConfigReader() {
+    public ConfigReaderUtils() {
         String path =
                 System.getProperty("user.dir")
                         + "/src/main/resources/config.properties";
@@ -28,5 +28,8 @@ public class ConfigReader {
 
     public String getUrl() {
         return prop.getProperty("url");
+    }
+    public Integer getRetryCount() {
+        return Integer.parseInt(prop.getProperty("retryCount"));
     }
 }

@@ -1,17 +1,15 @@
 package base;
 
-import org.openqa.selenium.WebDriver;
-
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 import utilities.DriverFactory;
-import static utilities.DriverFactory.*;
 
 public class BaseTest {
 
     @Parameters("browser")
-    @BeforeMethod
+    @BeforeMethod()
     public void setup(String browser) {
         DriverFactory.initDriver(browser);
     }
@@ -27,4 +25,8 @@ public class BaseTest {
         DriverFactory.getDriver().get(url);
     }
 
+    @DataProvider(name = "browserProvider", parallel = true)
+    public Object[][] getBrowsers() {
+        return new Object[][] { {"chrome"}, {"firefox"} };
+    }
 }

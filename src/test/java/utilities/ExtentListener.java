@@ -24,7 +24,7 @@ public class ExtentListener implements ITestListener {
 
     @Override
     public void onTestFailure(ITestResult result) {
-        ScreenshotUtility screenshot = new ScreenshotUtility();
+        ScreenshotUtils screenshot = new ScreenshotUtils();
         String path = null;
         try {
             path = screenshot.captureScreenshot(result.getName());
@@ -32,7 +32,6 @@ public class ExtentListener implements ITestListener {
             throw new RuntimeException(e);
         }
         test.get().fail("Failed").addScreenCaptureFromPath(path);
-
     }
 
     @Override

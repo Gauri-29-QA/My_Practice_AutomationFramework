@@ -7,7 +7,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.FileInputStream;
 
-public class ExcelReader {
+public class ExcelReaderUtils {
     public static Object[][] getExcelData(String filePath,
                                           String sheetName)
     {
@@ -33,7 +33,6 @@ public class ExcelReader {
             workbook.close();
 
         } catch(Exception e) {
-
             e.printStackTrace();
         }
 

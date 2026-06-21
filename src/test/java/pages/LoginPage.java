@@ -1,5 +1,6 @@
 package pages;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,6 +11,8 @@ public class LoginPage {
     WebDriver driver;
     WebElement username;
     WebElement password;
+    WebElement btn_Submit;
+    WebElement link_ShoppingCart;
     public LoginPage()
     {
         this.driver=DriverFactory.getDriver();
@@ -23,6 +26,16 @@ public class LoginPage {
         WaitUtils.waitForVisibility(username).sendKeys(user);
         password=driver.findElement(By.id("password"));
         WaitUtils.waitForVisibility(password).sendKeys(paa);
+
+        btn_Submit= driver.findElement(By.id("login-button"));
+        WaitUtils.waitForClickable(btn_Submit);
+        btn_Submit.click();
+
+        link_ShoppingCart=driver.findElement(By.className("shopping_cart_link"));
+        WaitUtils.waitForVisibility(link_ShoppingCart);
+
+        Alert alert=driver.switchTo().alert();
+        alert.dismiss();
 
     }
 }
