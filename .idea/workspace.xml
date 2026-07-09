@@ -5,29 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84f0aee1-d812-4d72-abbe-a8a0f73ae414" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DateTimeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/PDFReaderUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/RetryTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/RetryUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/Test1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/Test1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/report/ExtentReport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/report/ExtentReport_14-06-2026 16_01_27.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/report/ExtentReport_14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/report/ExtentReport_16-06-2026 13_25_04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Output/report/ExtentReport_1781432540841.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 21_12_02/ExtentReport_21-06-2026 21_12_02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 21_44_19/ExtentReport_21-06-2026 21_44_19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 21_44_19/ScreenshotsTest_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_07_04/ExtentReport_21-06-2026 22_07_04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_07_04/Screenshots/Test_121-06-2026 22_07_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_22_02/ExtentReport_21-06-2026 22_22_02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_22_02/Screenshots/Test_121-06-2026 22_22_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_27_48/ExtentReport_21-06-2026 22_27_48.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/report/Execution_21-06-2026 22_27_48/Screenshots/Test_121-06-2026 22_27_48.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestDataProviders/LoginDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestDataProviders/LoginDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReaderUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelReaderUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DateTimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/DateTimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExcelReaderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelReaderUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExtentListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/WaitUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/WaitUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/RetryUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/RetryUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ScreenshotUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,63 +42,75 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gauri-29-QA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gauri-29-QA/My_Practice_AutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;22f45e4a-cb8a-428b-af4a-669339d3b57c&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.0848132032576835E-201" />
-      <entry key="S2" value="2.1656143150781934E-50" />
-      <entry key="S5" value="4.630306617050002E-20" />
-      <entry key="S10" value="6.062179860490065E-10" />
-      <entry key="S30" value="0.0033824115711677686" />
-      <entry key="S60" value="0.16447975718430916" />
-      <entry key="M2" value="1.1482372223459372" />
-      <entry key="M5" value="3.920374207336152" />
-      <entry key="M10" value="7.6474461982498925" />
-      <entry key="M15" value="11.708166314318868" />
-      <entry key="M30" value="24.019392987531997" />
-      <entry key="H1" value="41.610074708758056" />
-      <entry key="H2" value="61.700087944821405" />
-      <entry key="H4" value="107.91495905490675" />
-      <entry key="D1" value="483.82567231358536" />
-      <entry key="W1" value="724.511531275155" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000328559609" />
+      <entry key="S2" value="1.038838923129308" />
+      <entry key="S5" value="1.4569912491173787" />
+      <entry key="S10" value="2.122288960356852" />
+      <entry key="S30" value="3.1367287985906387" />
+      <entry key="S60" value="3.540632082471405" />
+      <entry key="M2" value="3.9131103745789297" />
+      <entry key="M5" value="4.758563100807389" />
+      <entry key="M10" value="6.981595207769075" />
+      <entry key="M15" value="10.318675835934377" />
+      <entry key="M30" value="20.521934738152357" />
+      <entry key="H1" value="36.01860468649302" />
+      <entry key="H2" value="67.62170515222402" />
+      <entry key="H4" value="132.39603123514215" />
+      <entry key="D1" value="564.3219609216758" />
+      <entry key="W1" value="881.5846072465135" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000002106852" />
-      <entry key="S30" value="1.0009480348414794" />
-      <entry key="S60" value="1.0454426288778411" />
-      <entry key="M2" value="1.3418550105309761" />
-      <entry key="M5" value="2.5053369448883984" />
-      <entry key="M10" value="4.571657394014033" />
-      <entry key="M15" value="6.665279773145087" />
-      <entry key="M30" value="13.006462304136157" />
-      <entry key="H1" value="22.549696231913426" />
-      <entry key="H2" value="32.519938476770974" />
-      <entry key="H4" value="47.40239099574542" />
-      <entry key="D1" value="161.09863580808016" />
-      <entry key="W1" value="236.97555608623713" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.5716173984874913E-140" />
+      <entry key="S10" value="2.25075863684848E-70" />
+      <entry key="S30" value="9.639510142472985E-24" />
+      <entry key="S60" value="4.389898743882412E-12" />
+      <entry key="M2" value="2.9760502979818113E-6" />
+      <entry key="M5" value="0.010964954803757145" />
+      <entry key="M10" value="0.2324228810190818" />
+      <entry key="M15" value="0.7301903917894194" />
+      <entry key="M30" value="2.5498702476393" />
+      <entry key="H1" value="5.440292662874945" />
+      <entry key="H2" value="11.801169384397866" />
+      <entry key="H4" value="26.930632160862697" />
+      <entry key="D1" value="149.18840969008838" />
+      <entry key="W1" value="245.96325017719136" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.856662377124195E-9" />
-      <entry key="MS500" value="0.020760715845257988" />
-      <entry key="S2" value="0.37958634505189726" />
-      <entry key="S5" value="0.6787724899400034" />
-      <entry key="S10" value="0.8238765024297628" />
-      <entry key="S30" value="0.9417647269165704" />
-      <entry key="S60" value="1.177450922164323" />
-      <entry key="M2" value="2.471353020753685" />
-      <entry key="M5" value="6.41340646545141" />
-      <entry key="M10" value="12.206575286324904" />
-      <entry key="M15" value="18.35953147555937" />
-      <entry key="M30" value="37.00877283980732" />
-      <entry key="H1" value="64.14294430147172" />
-      <entry key="H2" value="94.20719000450701" />
-      <entry key="H4" value="155.30714804986047" />
-      <entry key="D1" value="644.9155077404421" />
-      <entry key="W1" value="961.4850671843835" />
+      <entry key="MS100" value="2.0337065803081414E-33" />
+      <entry key="MS500" value="3.519327425235739E-7" />
+      <entry key="S2" value="0.046929068694142366" />
+      <entry key="S5" value="0.5910817091098818" />
+      <entry key="S10" value="1.4745931103375094" />
+      <entry key="S30" value="2.8335613036602383" />
+      <entry key="S60" value="3.3735078851269518" />
+      <entry key="M2" value="3.8242187462056543" />
+      <entry key="M5" value="4.731217747854918" />
+      <entry key="M10" value="7.193248094658616" />
+      <entry key="M15" value="11.033562680362465" />
+      <entry key="M30" value="23.061704605721662" />
+      <entry key="H1" value="41.451784964997984" />
+      <entry key="H2" value="79.41671249135166" />
+      <entry key="H4" value="159.32017268380073" />
+      <entry key="D1" value="713.5023357287347" />
+      <entry key="W1" value="1127.5457888042795" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,7 +135,8 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.C:/Users/Gauri/IdeaProjects/My_Project/testng.xml.executor&quot;: &quot;Debug&quot;,
     &quot;TestNG.LoginTest.Test_1.executor&quot;: &quot;Run&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
@@ -151,20 +161,7 @@
       <recent name="C:\Users\Gauri\IdeaProjects\My_Project" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml">
-    <configuration name="TestAPI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="api.TestAPI2" />
-      <module name="My_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/testng.xml">
     <configuration name="TestAPI3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="api.TestAPI3" />
       <module name="My_Project" />
@@ -201,6 +198,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/Gauri/IdeaProjects/My_Project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QAAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.Test_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="My_Project" />
       <extension name="coverage">
@@ -221,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/testng.xml" />
         <item itemvalue="TestNG.C:/Users/Gauri/IdeaProjects/My_Project/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.LoginTest.Test_1" />
         <item itemvalue="Application.TestAPI4" />
         <item itemvalue="Application.TestAPI3" />
-        <item itemvalue="Application.TestAPI2" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +263,15 @@
       <workItem from="1781865280559" duration="7817000" />
       <workItem from="1781926399532" duration="2508000" />
       <workItem from="1781932603069" duration="9208000" />
-      <workItem from="1782049424850" duration="7131000" />
+      <workItem from="1782049424850" duration="8291000" />
+      <workItem from="1782115411621" duration="4134000" />
+      <workItem from="1782310364276" duration="4885000" />
+      <workItem from="1782366110369" duration="9653000" />
+      <workItem from="1782470483331" duration="5382000" />
+      <workItem from="1782554904551" duration="7870000" />
+      <workItem from="1783085506738" duration="2342000" />
+      <workItem from="1783146223037" duration="6000" />
+      <workItem from="1783262287510" duration="356000" />
     </task>
     <servers />
   </component>
@@ -274,6 +289,20 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/utilities/ExtentListener.java</url>
+          <line>32</line>
+          <properties class="utilities.ExtentListener" method="onTestFailure">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/utilities/ExtentListener.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

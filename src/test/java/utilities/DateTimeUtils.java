@@ -4,11 +4,9 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class DateTimeUtils {
-    private static LocalDateTime currentDateTime = LocalDateTime.now();
-    private static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
-    private static String formattedDateTime = currentDateTime.format(formatter);
+    private static DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss-SSS");
 
     public static String getDateTime(){
-        return formattedDateTime.replace(":","_");
+        return LocalDateTime.now().format(formatter);
     }
 }

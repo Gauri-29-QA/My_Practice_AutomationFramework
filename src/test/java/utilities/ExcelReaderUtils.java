@@ -13,7 +13,6 @@ public class ExcelReaderUtils {
     {
         Object[][] data = null;
         try {
-
             FileInputStream fis = new FileInputStream(filePath);
             Workbook workbook = new XSSFWorkbook(fis);
             Sheet sheet = workbook.getSheet(sheetName);

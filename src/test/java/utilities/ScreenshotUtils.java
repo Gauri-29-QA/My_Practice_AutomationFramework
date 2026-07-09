@@ -11,9 +11,13 @@ import java.io.IOException;
 public class ScreenshotUtils {
 
     public String captureScreenshot(String fileName) throws IOException {
-        File destinationFile=new File(ExtentManager.getScreenShotDri()+"/"+fileName+DateTimeUtils.getDateTime()+".png");
+        String screenshotName = fileName + "_" + DateTimeUtils.getDateTime() + ".png";
+
+        String relativePath = "Screenshots/" + screenshotName;
+
+        File destinationFile=new File(ExtentManager.getScreenShotDri()+"/"+relativePath);
         File screenshotFile= ((TakesScreenshot) DriverFactory.getDriver()).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(screenshotFile, destinationFile);
-        return destinationFile.getAbsolutePath();
+        return relativePath;
     }
 }

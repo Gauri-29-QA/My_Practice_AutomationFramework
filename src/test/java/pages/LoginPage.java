@@ -34,8 +34,8 @@ public class LoginPage {
         link_ShoppingCart=driver.findElement(By.className("shopping_cart_link"));
         WaitUtils.waitForVisibility(link_ShoppingCart);
 
-        Alert alert=driver.switchTo().alert();
-        alert.dismiss();
+        //Alert alert=driver.switchTo().alert();
+        //alert.dismiss();
 
     }
 }

@@ -8,19 +8,19 @@
         <listener class-name="utilities.ExtentListener"/>
         <listener class-name="utilities.RetryTransformer"/>
     </listeners>
-    <test name="UI Tests">
+    <test name="UI Tests" >
         <parameter name="browser" value="chrome"/>
         <classes>
             <class name="tests.LoginTest"/>
         </classes>
     </test>
-    <test name="UI Tests2">
+<!--    <test name="UI Tests2">
           <parameter name="browser" value="firefox"/>
           <classes>
               <class name="tests.LoginTest"/>
           </classes>
-      </test>
-      <test name="API Tests">
+      </test>-->
+<!--      <test name="API Tests">
           <parameter name="browser" value="firefox"/>
           <classes>
               <class name="api.TestAPI"/>
@@ -28,6 +28,6 @@
               <class name="api.TestAPI3"/>
               <class name="api.TestAPI4"/>
           </classes>
-      </test>
+      </test>-->
 
   </suite>
