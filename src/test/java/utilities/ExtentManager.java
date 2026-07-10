@@ -15,12 +15,12 @@ public class ExtentManager {
                     + "/Output/report/Execution_" + DateTimeUtils.getDateTime();
 
             new File(executionFolder).mkdirs();
-            File screenShotDir= new File(executionFolder + "/Screenshots");
+
+            File screenShotDir = new File(executionFolder + "/Screenshots");
             screenShotDir.mkdirs();
 
             ExtentSparkReporter spark =
-                    new ExtentSparkReporter(executionFolder+
-                            "/ExtentReport_"+DateTimeUtils.getDateTime()+".html");
+                    new ExtentSparkReporter(executionFolder + "/index.html");
 
             extent = new ExtentReports();
             extent.attachReporter(spark);
